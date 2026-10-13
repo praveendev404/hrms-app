@@ -1,0 +1,9 @@
+# Key properties for app signing
+# Copy this file to key.properties and fill in your values
+# DO NOT commit key.properties to version control!
+
+storePassword=Support@123#@!
+keyPassword=Support@123#@!
+keyAlias=upload
+storeFile=../upload-keystore.jks
+
